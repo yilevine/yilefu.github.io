@@ -66,9 +66,15 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type: "Person"         : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://scholar.google.com/citations?hl=en&user=r7ddgHkAAAAJ"
+    - "https://github.com/yilevine"
+    - "https://www.linkedin.com/in/yile-fu-9749a5232/"
+    - "https://orcid.org/0000-0003-0615-1152"
+  
+  # An array of links to social media profiles
 
 
 # Analytics
@@ -80,13 +86,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Songpeng Zu"
-  avatar           : "profile.jpg"
-  bio              : "Post-Doctoral Fellow in Prof. Bing Ren's lab, UCSD"
-  location         : "San Diego, California"
+  name             : "Yile Fu"
+  avatar           : "yile.jpg"
+  bio              : "PhD researcher, Department of Cardiovascular Sciences, KU Leuven"
+  location         : "Leuven, Belgium"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=KSCNG_MAAAAJ&hl=en&authuser=1"
-  email            : "szu # at # health.ucsd.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=r7ddgHkAAAAJ"
+  email            : "yile.fu@kuleuven.be"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "beyondpie"
+  github           : "https://github.com/yilevine"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9753-5623"
+  linkedin         : "https://www.linkedin.com/in/yile-fu-9749a5232/"
+  orcid            : "https://orcid.org/0000-0003-0615-1152"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
