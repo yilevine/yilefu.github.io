@@ -24,7 +24,7 @@ Yuke Xiang, Qin Wang, Yunquan Guo, Hui Ge, **Yile Fu**, Xiyan Wang, Liang Tao
 <i>Journal of Experimental & Clinical Cancer Research</i>, 2019
 
 **[Inhibition of ubiquitin-specific protease 14 promotes connexin 32 internalization and counteracts cisplatin cytotoxicity in human ovarian cancer cells](https://www.spandidos-publications.com/or/42/3/1237)**  
-Huimin Luo, Xiyan Wang, Hui Ge, Ningze Zheng, Fuhua Peng,**Yile Fu**, Liang Tao, Qin Wang
+Huimin Luo, Xiyan Wang, Hui Ge, Ningze Zheng, Fuhua Peng, **Yile Fu**, Liang Tao, Qin Wang
 <i>Oncology reports</i>, 2019
 
 
