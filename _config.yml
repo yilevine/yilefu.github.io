@@ -90,7 +90,7 @@ author:
   avatar           : "images/profile.jpg"
   bio              : "PhD researcher, Department of Cardiovascular Sciences, KU Leuven"
   location         : "Leuven, Belgium"
-  employer         : "KU Leuven, Department of Cardiovascular Sciences"
+  employer         : "KU Leuven"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=r7ddgHkAAAAJ"
   email            : "yile.fu@kuleuven.be"
   uri              :
@@ -100,13 +100,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yilevine"
+  github           : yilevine
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yile-fu-9749a5232/"
+  linkedin         : yile-fu-9749a5232
   orcid            : "https://orcid.org/0000-0003-0615-1152"
   pinterest        :
   soundcloud       :
