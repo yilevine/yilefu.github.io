@@ -1,15 +1,14 @@
 ---
 <!-- layout: archive -->
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=KSCNG_MAAAAJ&hl=en&authuser=1)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?hl=en&user=r7ddgHkAAAAJ)
 permalink: /publications/
 author_profile: true
 ---
 <br>
 
-<b>[SIMPLEs: a single-cell RNA sequencing imputation strategy preserving gene
-modules and cell clusters
-variation](https://beyondpie.github.io/publications/SIMPLEs)</b> <br>
-Zhirui Hu\*, <b>Songpeng Zu</b>\*, Jun S. Liu. <i>NAR Genomics and Bioinformatics 2020</i>
+<b>[Small-molecule-induced ERBB4 activation to treat heart failure](https://www.nature.com/articles/s41467-024-54908-5)</b> <br>
+Julie MT Cools, Bo K Goovaerts, Eline Feyen, Siel Van den Bogaert, <b>Yile Fu</b>, Céline Civati, Michiel RL Tubeeckx, Jasper Ott, Long Nguyen, Eike M Wülfers, Benji Van Berlo, Antoine AF De Vries, Nele Vandersickel, Daniël A Pijnappels, Dominique Audenaert, H Llewelyn Roderick, Hans De Winter, Gilles W De Keulenaer, Vincent FM Segers. <i>Nature communications 2025</i>
+
 
 <b>[VISAR: an interactive tool for dissecting chemical features learned by deep
 neural network QSAR models](https://beyondpie.github.io/publications/VISAR)</b> <br>
