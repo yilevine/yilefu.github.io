@@ -1,3 +1,3 @@
-** [[https://beyondpie.github.io][My Homepage based on Github Pages]]
+** [[https://yilevine.github.io/][My Homepage based on Github Pages]]
 
-Learn from [[https://github.com/academicpages/academicpages.github.io][Academicxpages]] and [[https://github.com/LantaoYu/lantaoyu.github.io][LantaoYu's Homepage]]. 
+Learn from [[https://github.com/academicpages/academicpages.github.io][academicxpages]] and [[https://github.com/beyondpie][beyondpie's Homepage]]. 
