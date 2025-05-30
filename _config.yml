@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "Yile Fu"
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "PhD researcher, Department of Cardiovascular Sciences, KU Leuven"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
