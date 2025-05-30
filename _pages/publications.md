@@ -1,36 +1,44 @@
 ---
-<!-- layout: archive -->
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?hl=en&user=r7ddgHkAAAAJ)
+layout: archive
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
 
-<b>[Small-molecule-induced ERBB4 activation to treat heart failure](https://www.nature.com/articles/s41467-024-54908-5)</b> <br>
-Julie MT Cools, Bo K Goovaerts, Eline Feyen, Siel Van den Bogaert, <b>Yile Fu</b>, Céline Civati, Michiel RL Tubeeckx, Jasper Ott, Long Nguyen, Eike M Wülfers, Benji Van Berlo, Antoine AF De Vries, Nele Vandersickel, Daniël A Pijnappels, Dominique Audenaert, H Llewelyn Roderick, Hans De Winter, Gilles W De Keulenaer, Vincent FM Segers. <i>Nature communications 2025</i>
+[View on Google Scholar →](https://scholar.google.com/citations?hl=en&user=r7ddgHkAAAAJ)
 
+---
 
-<b>[VISAR: an interactive tool for dissecting chemical features learned by deep
-neural network QSAR models](https://beyondpie.github.io/publications/VISAR)</b> <br>
-Qingyang Ding, Siyu Hou, <b>Songpeng Zu</b>, Yonghui Zhang, Shao Li. <i>Bioinformatics 2020</i>
+### Selected Publications
 
-<b>[Modeling Attention Flow on Graphs](https://beyondpie.github.io/publications/AFG)</b> <br>
-Xiaoran Xu, <b>Songpeng Zu</b>, Chengliang Gao, Yuan Zhang, Wei Feng. <i>NIPS 2018 Workshop on Relational Representation Learning</i>
+**[Small-molecule-induced ERBB4 activation to treat heart failure](https://www.nature.com/articles/s41467-024-54908-5)**  
+Julie M.T. Cools, Bo K. Goovaerts, Eline Feyen, Siel Van den Bogaert, **Yile Fu**, Céline Civati, Michiel R.L. Tubeeckx, Jasper Ott, Long Nguyen, Eike M. Wülfers, Benji Van Berlo, Antoine A.F. De Vries, Nele Vandersickel, Daniël A. Pijnappels, Dominique Audenaert, H. Llewelyn Roderick, Hans De Winter, Gilles W. De Keulenaer, Vincent F.M. Segers  
+<i>Nature Communications</i>, 2025
 
-<b>[Hulu video recommendation: from relevance to reasoning](https://beyondpie.github.io/publications/HULU)</b> <br>
-Xiaoran Xu, Laming Chen, <b>Songpeng Zu</b>, Hanning Zhou. <i>Proceedings of the 12th ACM Conference on Recommender Systems</i>
+**[VISAR: An interactive tool for dissecting chemical features learned by deep neural network QSAR models](https://beyondpie.github.io/publications/VISAR)**  
+Qingyang Ding, Siyu Hou, **Songpeng Zu**, Yonghui Zhang, Shao Li  
+<i>Bioinformatics</i>, 2020
 
-<b>[Backprop-Q: Generalized Backpropagation for Stochastic Computation Graphs](https://beyondpie.github.io/publications/BPQ)</b> <br>
-Xiaoran Xu, <b>Songpeng Zu</b>, Yuan Zhang, Hanning Zhou, Wei Feng. <i>NIPS 2018 Workshop on Deep Reinforcement Learning</i>
+**[Modeling Attention Flow on Graphs](https://beyondpie.github.io/publications/AFG)**  
+Xiaoran Xu, **Songpeng Zu**, Chengliang Gao, Yuan Zhang, Wei Feng  
+<i>NeurIPS Workshop on Relational Representation Learning</i>, 2018
 
-<b>[Evaluating the molecule-based prediction of clinical drug responses in cancer](https://beyondpie.github.io/publications/TCGA_PanCancer)</b> <br>
-Zijian Ding, <b>Songpeng Zu</b>, Jin Gu.
-<i>Bioinformatics  2016</i>
+**[Hulu Video Recommendation: From Relevance to Reasoning](https://beyondpie.github.io/publications/HULU)**  
+Xiaoran Xu, Laming Chen, **Songpeng Zu**, Hanning Zhou  
+<i>Proceedings of the 12th ACM Conference on Recommender Systems</i>, 2018
 
-<b>[Global optimization-based inference of chemogenomic features from drug–target interactions](https://beyondpie.github.io/publications/GIFT)</b> <br>
-<b>Songpeng Zu</b>, Ting Chen, Shao Li. <i>Bioinformatics 2015</i>
+**[Backprop-Q: Generalized Backpropagation for Stochastic Computation Graphs](https://beyondpie.github.io/publications/BPQ)**  
+Xiaoran Xu, **Songpeng Zu**, Yuan Zhang, Hanning Zhou, Wei Feng  
+<i>NeurIPS Workshop on Deep Reinforcement Learning</i>, 2018
 
+**[Evaluating the molecule-based prediction of clinical drug responses in cancer](https://beyondpie.github.io/publications/TCGA_PanCancer)**  
+Zijian Ding, **Songpeng Zu**, Jin Gu  
+<i>Bioinformatics</i>, 2016
 
+**[Global optimization-based inference of chemogenomic features from drug–target interactions](https://beyondpie.github.io/publications/GIFT)**  
+**Songpeng Zu**, Ting Chen, Shao Li  
+<i>Bioinformatics</i>, 2015
 
+---
 
-[\* denotes equal contribution]
+<sub>\* Equal contribution if applicable</sub>
