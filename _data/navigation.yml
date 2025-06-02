@@ -18,5 +18,7 @@ main:
   - title: "Contact"
     url: "/contact/"
 
+  - title: "Game"
+    url: /game/
 
 
