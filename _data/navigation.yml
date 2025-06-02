@@ -1,21 +1,22 @@
-# main links links
+# main links
 main:
   - title: "CV"
-    url: /files/cv_postdoc.pdf
+    url: "/files/cv_postdoc.pdf"
 
   - title: "Publications"
-    url: /publications/
+    url: "/publications/"
 
   - title: "Talks"
     url: "/talks/"
 
+  - title: "Awards & Fellowships"
+    url: "/awards/"
+
   - title: "Teaching"
-    url: /teaching/
+    url: "/teaching/"
 
   - title: "Contact"
-    url: /contact/
-
-
+    url: "/contact/"
 
 
 
