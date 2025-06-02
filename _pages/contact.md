@@ -42,10 +42,11 @@ If you prefer, you can email me directly using the form below:
 ### Location
 
 <iframe 
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2518.172536010137!2d4.672953615745899!3d50.86037097953447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c161f0f44597fd%3A0xd8578b53de291097!2sCampus%20Gasthuisberg%20-%20KU%20Leuven!5e0!3m2!1sen!2sbe!4v1622623794160!5m2!1sen!2sbe" 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.413405600504!2d4.669162775610786!3d50.87905855641212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c160fc4442ab03%3A0xf184578f5e13e6a7!2sUZ%20Leuven!5e0!3m2!1sen!2sbe!4v1748890789468!5m2!1sen!2sbe" 
   width="100%" 
   height="400" 
   style="border:0;" 
   allowfullscreen="" 
-  loading="lazy">
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
 </iframe>
