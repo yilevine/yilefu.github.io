@@ -34,11 +34,11 @@ This work is part of a collaborative effort between KU Leuven, the University of
 
 ### 🧪 **Benchmarking Project**
 
-To address the increasing complexity of single-nucleus datasets, I conducted a comprehensive benchmarking study comparing leading computational tools for sample demultiplexing (including cellSNP-lite, Vireo, and demuxlet).
+To address the increasing complexity of single-nucleus datasets, I conducted a comprehensive benchmarking study comparing leading computational tools for sample demultiplexing (including Vireo, Souporcell, Freemuxlet and scSplit).
 
 This project evaluated accuracy, genotype concordance, runtime efficiency, and scalability across multiple donors. It provides practical recommendations for researchers working with multiplexed snRNA-seq data in human tissues.
 
-Results from this study were presented at the **37th Meeting of the ISHR European Section** in Porto, Portugal, and are currently available as a preprint (or manuscript in review — update this as needed).
+Results from this study were presented at the **37th Meeting of the ISHR European Section** in Porto, Portugal, and are currently available as a preprint.
 
 ---
 
