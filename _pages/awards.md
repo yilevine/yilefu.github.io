@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Awards & Fellowships"
+title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
 
 <br>
 
-### 🏆 **Awards & Fellowships**
+### 🏆 **Awards**
 
 **FWO Travel Grant – ISHR World Congress**  
 *Research Foundation – Flanders (FWO)* — May 2025  
@@ -22,5 +22,5 @@ Received a competitive award to support participation and presentation at the IS
 Selected for the prestigious interdisciplinary winter school *"CO₂ Reduction and Negative Emission Technologies."*
 
 **ISHR Europe Section Travel Grant**  
-*38th Meeting of the ISHR European Section*, Toulouse, France — May 2024  
+*38th Meeting of the ISHR European Section*, Toulouse, France — June 2024  
 Awarded a travel grant to support an oral presentation at a leading European cardiovascular research conference.

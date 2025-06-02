@@ -3,17 +3,17 @@ main:
   - title: "CV"
     url: "/files/cv_postdoc.pdf"
 
+  - title: "Research"
+    url: "/research/"
+
   - title: "Publications"
     url: "/publications/"
 
   - title: "Talks"
     url: "/talks/"
 
-  - title: "Awards & Fellowships"
+  - title: "Awards"
     url: "/awards/"
-
-  - title: "Teaching"
-    url: "/teaching/"
 
   - title: "Contact"
     url: "/contact/"
